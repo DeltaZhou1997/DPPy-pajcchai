@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 password = "Python is awesome"
 
 passwordInput = input()
